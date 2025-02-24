@@ -31,20 +31,20 @@ This tutorial is useful for:
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/Shivam-Rathaur/NumPy.git
    ```
 
-2. Ensure you have Python and Jupyter Notebook installed:
-   ```bash
-   pip install numpy jupyter
-   ```
+2. Download as a ZIP File:
+   - Go to the repository's main page: https://github.com/Shivam-Rathaur/NumPy
+   - Click the "Code" button at the top right.
+   - Select "Download ZIP" and extract it on your system.
 
-3. Launch the tutorial:
-   ```bash
-   jupyter notebook m1_numpy_tutorial.ipynb
-   ```
+## Connect with Me
+For queries, suggestions, or collaborations, connect with me:
+- **[LinkedIn - Shivam Rathaur](https://www.linkedin.com/in/shivam-rathaur/)**
 
-## 📧 Contact
+- **[GitHub - Shivam Rathaur](https://github.com/Shivam-Rathaur)**
 
-Feel free to reach out if you have any questions or suggestions. Happy Learning! 🎉
+
+Happy Learning! 🚀
+
